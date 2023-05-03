@@ -1,4 +1,4 @@
-public class Test5.java
+public class Test5
 
 {
 
